@@ -9,7 +9,7 @@ Welcome to the **Rock-Paper-Scissors Game**! This is a simple, fun, and interact
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
-- [Live Demo]
+- [Live Demo](#live-demo)
 
 ---
 
@@ -53,7 +53,9 @@ This game is built using the following technologies:
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For game logic, player input, random selection for the computer, and score tracking.
 
-## Live Demo
+---
+
+## ☄️ Live Demo
 
 You can view the live version of the **Rock Paper Scissors** game here:  
 **[Live Demo on Vercel](https://rock-paper-scissors-game-six-navy.vercel.app/)**
